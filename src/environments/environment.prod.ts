@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  urlApi: "http://localhost:3000"
+  urlApi: 'http://projetcertifbackend-production.up.railway.app',
 };
