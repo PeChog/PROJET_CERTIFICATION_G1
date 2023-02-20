@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlApi: 'http://projetcertifbackend-production.up.railway.app',
+  urlApi: 'https://projetcertifbackend-production.up.railway.app',
 };
 
 /*
